@@ -1,10 +1,10 @@
 import cx_Oracle
 
-HOST = "DESKTOP-TNPL4M2.mshome.net"
-PORT = "1521"
-SERVICE_NAME = "XEPDB1"
-USER = "cse"
-PASS = "cse"
+HOST = ""
+PORT = ""
+SERVICE_NAME = ""
+USER = ""
+PASS = ""
 
 
 def store_passwords(password, user_email, username, url, app_name):
